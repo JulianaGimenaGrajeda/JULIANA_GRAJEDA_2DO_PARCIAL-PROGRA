@@ -82,5 +82,37 @@
     {
         "nombre": "Yulisa",
         "puntaje": 80
+    },
+    {
+        "nombre": "Liyulian",
+        "puntaje": 100
+    },
+    {
+        "nombre": "Perd\u00ed a",
+        "puntaje": -20
+    },
+    {
+        "nombre": "Shuli",
+        "puntaje": 85
+    },
+    {
+        "nombre": "Liyulian",
+        "puntaje": 50
+    },
+    {
+        "nombre": "Yulai",
+        "puntaje": 40
+    },
+    {
+        "nombre": "Yulias",
+        "puntaje": 0
+    },
+    {
+        "nombre": "Yulisaisaa",
+        "puntaje": 45
+    },
+    {
+        "nombre": "Yulisis",
+        "puntaje": 35
     }
 ]

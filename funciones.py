@@ -18,6 +18,16 @@ def enlistar_datos(lista:list,clave:str):
 
     return lista_nueva
 
+def dibujar_rects(pantalla):
+    i = 0
+    a = 0
+
+    for color in LISTA_COLORES:
+        pygame.draw.rect(pantalla,color,(300+108*i,420,100,80),border_radius=15)
+        i += 1
+        pygame.draw.rect(pantalla,color,(300+108*a,580,100,80),border_radius=15)
+        a += 1
+
 def configurar_imagen(archivo:str,tamaño:tuple):
     archivo = pygame.image.load(archivo)
     archivo = pygame.transform.scale(archivo,tamaño)
