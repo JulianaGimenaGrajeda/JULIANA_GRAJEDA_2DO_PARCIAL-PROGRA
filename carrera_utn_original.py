@@ -100,6 +100,7 @@ while correr:
                 reloj = 5
                 bandera_fin_ingreso = False
                 bandera_finalizar = False
+                bandera_fin_juego = False
                 ingreso = ""
                 #PERSONAJE
                 direccion = 0
